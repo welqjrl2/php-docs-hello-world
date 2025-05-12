@@ -1,3 +1,4 @@
 <?php
 
-echo "Hello World!";
+echo "kang-app 코드 배포 테스트";
+?>
