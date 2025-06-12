@@ -1,4 +1,4 @@
 <?php
 
-echo "kang-app 코드 배포 테스트";
+echo "kang-app 슬롯 변경 테스트";
 ?>
